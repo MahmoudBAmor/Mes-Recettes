@@ -161,6 +161,9 @@ form{
     margin-left: 0;
 }
 
+.box p:hover{
+    background-color: rgba(237, 230, 230, 0.4);
+}
 /* FOOTER */
 nav{
     font-size: 16px;
